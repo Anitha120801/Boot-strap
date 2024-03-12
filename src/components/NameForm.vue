@@ -1,6 +1,7 @@
 <template>
 <div>
   <h1>Name Form</h1>
+  <h2>Form </h2>
   </div>
 </template>
 
